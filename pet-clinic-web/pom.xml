@@ -4,7 +4,7 @@
   <parent>
     <groupId>guru.springframework</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
   </parent>
   <artifactId>pet-clinic-web</artifactId>
   <name>pet-clinic-web</name>
@@ -16,7 +16,7 @@
    	<dependency>
 		<groupId>guru.springframework</groupId>
 		<artifactId>pet-clinic-data</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1</version>
 	</dependency>
    	<dependency>
 		<groupId>org.springframework.boot</groupId>
@@ -54,8 +54,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <scm>
-    <tag>pet-clinic-web-0.0.1</tag>
-  </scm>
 </project>
